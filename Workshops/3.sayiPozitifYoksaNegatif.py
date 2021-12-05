@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 
 #Soru: girilen sayının pozitif yoksa negatif mi olduğunu bulan kodu yazınız
+
 sayi=int(input("Sayi giriniz: "))
 
 if sayi < 0:
